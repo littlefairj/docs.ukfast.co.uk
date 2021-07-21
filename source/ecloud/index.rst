@@ -7,12 +7,12 @@ UKFast offers a number of cloud hosting platforms, including public cloud (eClou
 .. toctree::
    :maxdepth: 1
 
+   ecloud-vpc/index
    flex/index
    vault/index
    public/index
    private/index
    console
-   vpc/index
 
 .. title:: Cloud hosting from UKFast | UKFast Documentation
 
