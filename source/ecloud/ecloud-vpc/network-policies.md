@@ -9,11 +9,11 @@ Note that you may also need to add the corresponding rules in the Firewall Polic
 ### Creating a Network Policy
 This section is exactly the same for Network Policies as Firewall policies;
 
-Add a Policy
-![Network Policies](files/network-policies-create.PNG)
+Add a Policy  
+![Network Policies](files/network-policies-create.png)
 
-Add rules to the policy
-![Network Policies](files/network-policies-rules-create.PNG)
+Add rules to the policy  
+![Network Policies](files/network-policies-rules-create.png)
 
 ### Ordering the Network Rules
 Press the up or down arrows on the left hand side of the rule name to change the order in which the rules are applied.
