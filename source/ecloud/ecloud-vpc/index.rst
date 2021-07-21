@@ -8,7 +8,7 @@ eCloud VPC is UKFast's cloud hosting platform, rebuilt from the ground  up on th
    :maxdepth: 1
 
    ecloud-vpc
-   navigating-ecloud
+   navigating-ecloud-vpc
    vpc
    router
    networks
