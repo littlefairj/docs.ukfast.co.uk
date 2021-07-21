@@ -14,7 +14,7 @@ Select the region you want to create the VPC in using the dropdown on the left h
 You will be asked to enter a name, if you wish to have the default networking created for you then leave the check box (this will create a router on our free tier & a network CIDR of 10.0.0.0/24). There is also the option to allow advanced networking, this enables east-west firewalling between network segments – note that this can only be done on VPC creation but does incur additional costs for instances.  
 
 Tick the terms and conditions check box and create the VPC.  
-![VPC Listview](files/vpc-listview-setup.png)
+![VPC Listview](files/vpc-setup.png)
 
 
 Automation is then triggered to configure your VPC in the background (should be almost instant). Automation does the following tasks (depending on what you set);  
